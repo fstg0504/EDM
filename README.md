@@ -1,4 +1,7 @@
-自己写的edm邮件模板，当svn用，自己管理方便；
-为了在手机测试方便，用了node的服务器，然后可以起一个本地服务器，在手机访问；
-需要安装node，然后在npm安装依赖包；
-也可以直接public\dev下面用浏览器打开html文件查看。
+## 鑷繁鍐欑殑edm閭欢妯℃澘
+*   鍥犱负鍦ㄥ紑鍙戜腑鏄竴杈规壘璧勬枡杈瑰仛鐨勶紝椤甸潰鍙槸鍏煎浜唒c鐨勯儴鍒嗛偖浠跺鎴风锛屾墜鏈虹鐨勬病鏈夊畬鍏ㄦ祴璇曪紝
+    鍩烘湰鏄拰pc鏄剧ず涓�涓牱寮忥紱娴姩缁濆瀹氫綅鐨勬樉绀轰篃鏈夊嚭鍏ワ紱
+
+## 閮ㄥ垎閭欢鏁欑▼
+*   [闃竴宄癏TML Email 缂栧啓鎸囧崡](http://www.ruanyifeng.com/blog/2013/06/html_email.html "闃竴宄癏TML Email 缂栧啓鎸囧崡")
+*   mjml锛歔https://mjml.io/](https://mjml.io/) github鍦板潃锛歔https://github.com/mjmlio/mjml](https://github.com/mjmlio/mjml) 锛堟垜鏄繕娌℃湁鐪嬶紝涓嶇煡閬撴�庝箞涓師鐞嗭級
